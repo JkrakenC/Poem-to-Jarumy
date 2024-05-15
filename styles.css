@@ -1,8 +1,8 @@
 body {
-    background-color: #f4f4f4;
+    background-color: #e3e3e3;
     margin: 0;
     font-size: 16px;
-    color: #f4f4f4;
+    color: #e3e3e3;
     background-image: url(mycouple.jpg);
     background-position: center 35%;
     background-repeat: no-repeat;
@@ -19,31 +19,36 @@ body {
 
 h1 {
     font-size: 4em;
-    font-family: montserrat;
+    font-family: Amatic SC;
     margin: 100px 0;
 }
 
 p {
     font-size: 1.5em;
-    font-family: montserrat;
+    font-family: Shadows into light;
 }
 
 .fecha {
     font-size: 4em;
-    font-family:montserrat;
+    font-family:Rajdhani;
 }
 
 a {
     display: block;
     width: 55%;
-    font-family: montserrat;
+    font-family: Shadows Into Light;
     background-color: transparent;
     border-radius: 10px;
-    border: solid #f4f4f4;
+    border: solid #e3e3e3;
     padding: 15px 30px;
     margin: auto;
     margin-bottom: 100px;
-    color: #f4f4f4;
-    font-size: 1.5em;
+    color: #e3e3e3;
+    font-size: 2em;
     text-decoration: none;
+}
+
+a:hover {
+    background-color: #e3e3e3;
+    color: #000;
 }

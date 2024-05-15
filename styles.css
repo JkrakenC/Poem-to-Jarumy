@@ -8,19 +8,19 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    text-align: center;
 }
 
 .box {
     width: 100%;
     height: 100%;
     margin: auto;
-    text-align: center;
 }
 
 h1 {
     font-size: 4em;
     font-family: montserrat;
-    margin: 100px 0 100px 0;
+    margin: 100px 0;
 }
 
 p {
@@ -31,4 +31,19 @@ p {
 .fecha {
     font-size: 4em;
     font-family:montserrat;
+}
+
+a {
+    display: block;
+    width: 55%;
+    font-family: montserrat;
+    background-color: transparent;
+    border-radius: 10px;
+    border: solid #f4f4f4;
+    padding: 15px 30px;
+    margin: auto;
+    margin-bottom: 100px;
+    color: #f4f4f4;
+    font-size: 1.5em;
+    text-decoration: none;
 }
